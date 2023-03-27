@@ -1,5 +1,10 @@
+## Importations ##
+
 from preprocessing import *
 from sklearn import datasets, svm, metrics
+
+## Plusieurs fonctions d'activation ##
+
 
 # Module sklearn gaussien
 from sklearn.svm import SVC
@@ -34,10 +39,11 @@ from sklearn.svm import SVC
 # Création du classifier
 classifier_linear = SVC(kernel = 'linear', random_state = 0)
 
-# Entrainement du dataset
+# Entrainement du dataset #
 classifier_linear.fit(X_data1, y_data1)
 
-# Lecture de l'image
+
+## Lecture de l'image ##
 
 datatest = fichiers_test[:]
 

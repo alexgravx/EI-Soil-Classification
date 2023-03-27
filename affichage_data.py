@@ -93,7 +93,7 @@ def train_or_test(src):
   
 # Exemple d'affichage
 
-src = './dataset/train/images/3.tif'
+src = '3.tif'
 
 type = train_or_test(src)
 

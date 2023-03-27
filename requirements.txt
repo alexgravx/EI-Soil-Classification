@@ -7,3 +7,8 @@ matplotlib
 tifffile
 sklearn
 sklearn.model_selection
+scipy.ndimage
+sklearn.cluster
+osgeo
+skimage
+itertools
