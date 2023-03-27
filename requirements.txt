@@ -1,0 +1,9 @@
+rasterio
+rasterio.plot
+numpy
+seaborn
+pandas
+matplotlib
+tifffile
+sklearn
+sklearn.model_selection
