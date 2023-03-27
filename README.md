@@ -1,6 +1,6 @@
 # EI-Soil-Classification
 
-<img src="./presentation.jpg" width="500">
+<img src="./presentation.jpg" width="700">
 
 ## 📖Présentation
 
