@@ -1,5 +1,7 @@
 # EI-Soil-Classification
 
+<img src="./presentation.jpg" width="500">
+
 ## 📖Présentation
 
 Enseignement d'intégration: développement d'une intelligence artificielle qui permet la classification des sols.
