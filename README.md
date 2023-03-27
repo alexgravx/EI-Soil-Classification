@@ -1,6 +1,6 @@
 # EI-Soil-Classification
 
-<img src="./presentation.jpg" width="700">
+<img src="./Images/presentation.jpg" width="700">
 
 ## 📖Présentation
 
@@ -26,6 +26,16 @@ Arthur MOL
 Bastien LI
 Manon Arfib
 Alexandre GRAVEREAUX
+
+## 🚀Exemples de résultats
+
+Masque réel à gauche et masque généré à droite
+
+<img src="./Images/mask_regroup.png" width="500"><img src="./Images/rbf_regroup.png" width="500">
+
+On obtient la matrice de confusion suivante
+
+<img src="./Images/M_regroup.png" width="500">
 
 ## Licence du projet
 
